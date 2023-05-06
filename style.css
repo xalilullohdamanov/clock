@@ -38,6 +38,7 @@ a {
 .nav__list {
   display: flex;
   align-items: center;
+  font-family: 'MONTSERRAT';
 }
 
 .nav__link {
@@ -349,7 +350,6 @@ a {
 
 .grid {
   display: grid;
-  grid-template-columns: 2fr, 2fr;
   gap: 24px;
   grid-template-columns: 1fr 2fr;
 }
