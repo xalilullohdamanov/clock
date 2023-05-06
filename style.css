@@ -351,6 +351,7 @@ a {
   display: grid;
   grid-template-columns: 2fr, 2fr;
   gap: 24px;
+  grid-template-columns: 1fr 2fr;
 }
 
 .main {
