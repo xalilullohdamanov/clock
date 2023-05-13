@@ -13,6 +13,9 @@ li {
 a {
   text-decoration: none;
 }
+body{
+  font-family:Montserrat;
+}
 
 .container {
   max-width: 1350px;
@@ -332,7 +335,7 @@ a {
   border-bottom: 3px solid;
 }
 
-.cards__text {
+.cards__link {
   font-size: 30px;
   line-height: 37px;
   color: #323232;
@@ -443,7 +446,6 @@ a {
 
 .footer__container {
   display: flex;
-  align-items: center;
   justify-content: center;
   gap: 160px;
   padding-top: 100px;
