@@ -7,14 +7,15 @@
 }
 
 li {
-  list-style: none;
+  list-style-type: none;
 }
 
 a {
   text-decoration: none;
 }
-body{
-  font-family:Montserrat;
+
+body {
+  font-family: Montserrat;
 }
 
 .container {
